@@ -1,0 +1,70 @@
+.dropdown-menu {         
+  max-height: 200px;
+  overflow-y: auto;
+}
+nav{
+ background-color: #DDE7FB;
+}
+nav li{
+ font-weight: bold;
+ color: black;
+}
+footer{
+      background-color: #CFDDFA;
+}
+p{
+
+    font-family: serif;
+    font-size: 20px;
+}
+.lis li{
+    font-family: serif;
+    font-size: 20px;
+
+}
+.jumbotron{
+margin-top: 70px;
+padding-top: 0px;
+margin-left: 20px;
+margin-right: 5px;
+padding-bottom:0px;
+background-image:url(img/37641.jpg);
+background-size: cover;
+height:500px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+.cc {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #A1BCF5;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 17px;
+}
+
+.aa {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, .aa:hover {
+  opacity: 0.7;
+}
